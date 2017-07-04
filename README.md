@@ -1,0 +1,3 @@
+# TUP
+Twitter Usage Patterns
+Discovering usage patterns from users, devices used, hours of use...
