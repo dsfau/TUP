@@ -214,27 +214,3 @@ for i in days.keys():
 
 ![png](output_9_22.png)
 
-
-
-```python
-dic={"a":0,"b":0,"c":0}
-print list(dic.keys())
-```
-
-    ['a', 'c', 'b']
-
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
